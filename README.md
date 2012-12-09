@@ -1,4 +1,8 @@
-framework
+Freestyle Framework
 =========
 
-Java based web framework
+FreeStyle Framework is a Java based framework where the developers keep the control on everything.
+
+Coming soon!
+
+http://www.freestyleframework.org/
